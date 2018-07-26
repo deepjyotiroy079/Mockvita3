@@ -33,5 +33,6 @@ Explanation Example 1
 Input
 5
 55, 53, 88, 27, 33
+
 Output
 2
