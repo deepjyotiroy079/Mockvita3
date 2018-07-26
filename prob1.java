@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 class prob1 {
     public static int sum_of_digits(int m){
         int n, sum=0;
